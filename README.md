@@ -1,8 +1,5 @@
 # AlgorithmC
 
-to make a var
+Dev by hamod6R
 
-write
-
-Name   input
-x    =   5
+© Mohamad fayoud - 2024
